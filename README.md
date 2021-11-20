@@ -10,3 +10,7 @@ Topic: Cobra Smoteboost for imbalance class problem
   "SMOTEBoost: Improving Prediction of the Minority Class in
    Boosting." European Conference on Principles of Data Mining and
    Knowledge Discovery (PKDD), 2003.](https://link.springer.com/content/pdf/10.1007%2F978-3-540-39804-2_12.pdf)<br>
+
+# Disclaimer
+
+This work is for learning purpose only. The work can not be used for publication or as commercial products etc without mentor’s consent.
